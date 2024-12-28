@@ -1,7 +1,7 @@
 # Blending spheres
  mixing w/ raymarching
 
-Explanation found here: 
+Explanation found here: https://dimitrichrysafis.github.io/#post/post3.md
 
 
 https://github.com/user-attachments/assets/3e907087-5ed0-40bd-9d07-174c7265144b
