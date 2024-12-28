@@ -1,5 +1,5 @@
 # Blending spheres
- mixing
+ mixing w/ raymarching
 
 Explanation found here: 
 
