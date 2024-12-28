@@ -1,6 +1,7 @@
-# Blending
-blend blend
+# Blending spheres
+ mixing
 
+Explanation found here: 
 
 
 https://github.com/user-attachments/assets/db9d13ae-ab1a-4f11-9a2d-6ad0f01a407d
